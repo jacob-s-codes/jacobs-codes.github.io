@@ -55,3 +55,17 @@ nav a {
   line-height: 1.5;
 }
 
+button {
+  padding: 1rem 3rem;
+  font-size: 1rem;
+  border: none;
+  color: lightblue;
+  background: black;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+button:hover {
+  background: white;
+  color: black;
+}
