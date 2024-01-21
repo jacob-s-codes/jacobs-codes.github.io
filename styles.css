@@ -15,7 +15,7 @@ nav {
   padding: 0rem calc((100vw - 1300px) / 2);
 }
 
-nav-items {
+.items {
   background-color: #333;
   overflow: hidden;
 }
